@@ -1,16 +1,17 @@
 # By default Reload config with shft + cmd + , 
 # config-file = themes/tokyonight
-theme = Material Ocean
-background-opacity = .92
-background-blur-radius = 0
+theme = Catppuccin Mocha
+background-opacity = 0.95
+background = #1A172B
+background-blur-radius = 10
 
 font-family = JetBrainsMonoNL Nerd Font Mono
 font-size = 13
 font-style = SemiBold
 cursor-style = block
 cursor-style-blink = true
-cursor-color = cell-foreground
-cursor-text = cell-background
+# cursor-color = cell-foreground
+# cursor-text = cell-background
 
 macos-titlebar-style = hidden
 macos-option-as-alt = true
