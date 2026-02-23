@@ -1,7 +1,7 @@
 # By default Reload config with shft + cmd + , 
 # config-file = themes/tokyonight
 theme = Catppuccin Mocha
-background-opacity = 0.95
+background-opacity = 0.97
 background = #1A172B
 background-blur-radius = 10
 
@@ -12,6 +12,7 @@ cursor-style = block
 cursor-style-blink = true
 # cursor-color = cell-foreground
 # cursor-text = cell-background
+# font-thicken = true
 
 macos-titlebar-style = hidden
 macos-option-as-alt = true
