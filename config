@@ -1,14 +1,14 @@
 # By default Reload config with shft + cmd + , 
 # config-file = themes/tokyonight
-theme = TokyoNight Moon
+# theme = TokyoNight Moon
 # background-opacity = 0.95
 # background-blur-radius = 10
 # background = #1f1f28
 
-
-background-opacity = 0.73
-background-blur-radius = 20
-background = #000000
+theme = Catppuccin Mocha
+background-opacity = 0.4
+background-blur-radius = 25
+# background = #000000
 
 font-family = JetBrainsMonoNL Nerd Font Mono
 font-size = 14
