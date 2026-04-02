@@ -5,9 +5,9 @@
 # background-blur-radius = 10
 # background = #1f1f28
 
-theme = Catppuccin Mocha
-background-opacity = 0.4
-background-blur-radius = 25
+theme = Catppuccin Macchiato
+background-opacity = 0.3
+background-blur-radius = 50
 # background = #000000
 
 font-family = JetBrainsMonoNL Nerd Font Mono
